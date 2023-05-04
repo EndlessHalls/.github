@@ -5,3 +5,5 @@ Unlike conventional games, this MMORPG does not rely on predictable hunting or g
 The game features a non pay-to-win system, where the economy is monitored and secured by AI watchdogs to ensure fair play. However, we are implementing a pay-to-look-good system, where players can purchase cosmetic items to customize their character's appearance.
 
 Are you ready to explore the unknown, uncover hidden treasures, and discover your true potential in a world that's constantly changing? Then join the adventure and experience the excitement of this revolutionary MMORPG.
+
+💬 [Discussions](https://github.com/orgs/EndlessHalls/discussions)
