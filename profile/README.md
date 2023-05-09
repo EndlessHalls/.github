@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./ReadMeBanner.png">
+  <img src="https://github.com/EndlessHalls/.github/blob/main/profile/ReadMeBanner.png?raw=true">
 </p>
 
 <!--
