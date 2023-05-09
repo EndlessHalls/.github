@@ -7,4 +7,5 @@ The game features a non pay-to-win system, where the economy is monitored and se
 Are you ready to explore the unknown, uncover hidden treasures, and discover your true potential in a world that's constantly changing? Then join the adventure and experience the excitement of this revolutionary MMORPG.
 
 💬 [Discussions](https://github.com/orgs/EndlessHalls/discussions) \
-👾 [Discord](https://endlesshalls.com/discord)
+👾 [Discord](https://endlesshalls.com/discord) \
+🐦 [Twitter](https://twitter.com/endless_halls)
